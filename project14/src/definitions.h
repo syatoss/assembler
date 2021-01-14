@@ -1,5 +1,3 @@
-~R&hP%D'zmG?DR@s $
-~R&hP%D'zmG?bR&ls $
 ~D'<R&'zp.zt
 ~D'<R&'zp++z^
 ~D'<R&'z4HkIzt
