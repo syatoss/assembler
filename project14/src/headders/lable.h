@@ -22,29 +22,13 @@ zzzz`PM{P'z&'\?W
 1PM{P'W
 
 
-?#`'D'<zG?b%h?=
-zzzz%&GRl&'DzR&?zRG,M?,<RbG?,n@bDOtW
-zzzz%&GRl&'DzR&?zRG,DM?MOtW
-zzzz%&GRl&'DzR&?zRG,R&,&%T{'bOtW
-zzzz%&GRl&'DzR&?zRG,R&,G?bR&lOtW
-zzzz%&GRl&'DzR&?zRG,R&,@`'bM?R@&OtW
-zzzz%&GRl&'DzR&?zRG,'\?'b&OtW
-zzzz%&GRl&'DzR&?zRG,'&?b#OtW
-zzzz%&GRl&'DzR&?z<RbG?,@`'bM&D,jRGR?'DOtW
-zzzz%&GRl&'DzR&?zG'h@&D,@`'bM&D,jRGR?'DOtW
-zzzz%&GRl&'DzR&?zPM{'P,D'<R&R?R@&OtW
 
 
-
-1n@bDG?M?%GW
-
-
-j@RDzMDD,&'n,PM{P'i`PM{P'JzVh MbJCW
-`PM{P'z<R&D,'\RG?R&l,PM{'Pih MbJzV`PM{P'zCW
-j@RDz`PM{P',R&R?i`PM{P'Jz 'MDCW
-
-
-
+j@RDzMDD,&'n,PM{P'ih MbJCW
+`PM{P'z<R&D,'\RG?R&l,PM{'Pih MbJCW
+j@RDz`PM{P',R&R?ij@RDCW
+j@RDz<RPP,PM{P',D'?MRPGiR&?JVR&?CW
+j@RDz<b'',PM{P',?M{P'ij@RDCW
 
 
 
